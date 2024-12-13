@@ -14,8 +14,8 @@ import java.util.Date;
 public class AliOddUtil {
 
     private static final String ENDOPOINT = "oss-cn-beijing.aliyuncs.com";
-    private static final String ACCESS_KEY_ID = "LTAI5t8TkgJSpdUQXc6TgeCj";
-    private static final String ACCESS_KEY_SECRET = "qUKKRA8rVoyaKg6zrmDmWTeMjttyBV";
+    private static final String ACCESS_KEY_ID = "";
+    private static final String ACCESS_KEY_SECRET = "";
     private static final String BUCKET_Name = "cjl-bishe";
 
     public static String uploadFile(String objectName, InputStream in) throws Exception {
